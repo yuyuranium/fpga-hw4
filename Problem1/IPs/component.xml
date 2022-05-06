@@ -368,14 +368,20 @@
       </xilinx:taxonomies>
       <xilinx:displayName>BRAM_v1_0</xilinx:displayName>
       <xilinx:definitionSource>package_project</xilinx:definitionSource>
-      <xilinx:coreRevision>2</xilinx:coreRevision>
-      <xilinx:coreCreationDateTime>2022-05-05T16:09:19Z</xilinx:coreCreationDateTime>
+      <xilinx:coreRevision>3</xilinx:coreRevision>
+      <xilinx:coreCreationDateTime>2022-05-06T12:15:04Z</xilinx:coreCreationDateTime>
       <xilinx:tags>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@2925f15f_ARCHIVE_LOCATION">d:/FPGA/IPs</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@5fc9a075_ARCHIVE_LOCATION">d:/FPGA/IPs</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@2bd6df0e_ARCHIVE_LOCATION">d:/FPGA/IPs</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@4c3a2ea0_ARCHIVE_LOCATION">d:/FPGA/IPs</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@525e2850_ARCHIVE_LOCATION">d:/FPGA/IPs</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@396ade37_ARCHIVE_LOCATION">d:/FPGA/IPs</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@c02a79a_ARCHIVE_LOCATION">d:/FPGA/IPs</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@19b4b3eb_ARCHIVE_LOCATION">d:/FPGA/IPs</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@75d6d3c9_ARCHIVE_LOCATION">d:/FPGA/IPs</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2d81c4cd_ARCHIVE_LOCATION">d:/FPGA/IPs</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@9d56edf_ARCHIVE_LOCATION">d:/FPGA/IPs</xilinx:tag>
       </xilinx:tags>
     </xilinx:coreExtensions>
     <xilinx:packagingInfo>
